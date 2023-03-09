@@ -15,7 +15,7 @@
 
 So far, I believe I have learned how to
 - create a repository 
-- use some commands to use when coding
+- use some commands to apply when coding
 - be active on Github to develop my coding skills
 
 ## As for the things I'm interested in...
